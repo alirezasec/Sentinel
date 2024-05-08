@@ -15,7 +15,7 @@ BUYUNLOCKCODE,True
 "HELP_DECRYPT.TXT",True
 "HELP_YOURFILES.HTML",True
 "HowDecrypt.gif",True
-"Decrypt All Files *.bmp",True
+"Decrypt All Files",True
 "cryptinfo.txt",True
 "DECRYPT_Readme.TXT.ReadMe",True
 "qwer.html",True
@@ -24,7 +24,7 @@ BUYUNLOCKCODE,True
 "FILESAREGONE.TXT",True
 "HOW TO DECRYPT FILES.TXT",True
 "DECRYPT_Readme.TXT.ReadMe",True
-"README_DECRYPT_HYDRA_ID_*.txt",True
+"README_DECRYPT_HYDRA_ID",True
 "DECRYPT_YOUR_FILES.HTML",True
 "KryptoLocker_README.txt",True
 "_Locky_recover_instructions.txt",True
@@ -40,11 +40,11 @@ BUYUNLOCKCODE,True
 "HELP_TO_SAVE_FILES.txt",True
 "HELP_TO_SAVE_FILES.txt",True
 "HELP_TO_SAVE_FILES.txt",True
-"_H_e_l_p_RECOVER_INSTRUCTIONS+*.txt",True
+"_H_e_l_p_RECOVER_INSTRUCTIONS",True
 "DECRYPT_INSTRUCTIONS.HTML",True
-"README_DECRYPT_UMBRE_ID_*.txt",True
+"README_DECRYPT_UMBRE_ID_",True
 "Help_Decrypt.txt",True
 "CryptLogFile.txt",True
-"*@Please_Read_Me@.txt*",True
-"*@WanaDecryptor@.exe*",True
+"@Please_Read_Me@.txt",True
+"@WanaDecryptor@.exe",True
 "NEFILIM-DECRYPT.txt",True
