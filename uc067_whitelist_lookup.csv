@@ -1,5 +1,4 @@
 app,device,"initating_process_folder_path","local_ip","local_port","remote_ip","remote_port","remote_url"
-"testdddd","testddd","*","*",139,"200.54.71.230","*","*"
 "netbios-ssn","espwl16d01156.sp.securitasdirect.local","*","*",139,"*","*","*"
 "ftp-data",d9drd342,"*","*","*","177.153.18.190/32","*","*"
 "*","*","*","*","*","255.255.255.255/32",137,"*"
